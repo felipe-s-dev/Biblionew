@@ -18,7 +18,7 @@ sistema.
 Manter lista de espera: permite adicionar e remover livros na lista de espera do 
 sistema. 
 
-Manter livro: permite salvar, excluir, carregar, listar, reservar, emprestar, devolver, 
+**Manter livro:** permite salvar, excluir, carregar, listar, reservar, emprestar, devolver, 
 renovar um livro do sistema. 
 
 Manter editora: permite salvar, carregar, listar e inativar uma editora do sistema. 
@@ -28,7 +28,7 @@ Manter categoria: permite salvar, carregar, listar e inativar uma categoria do s
 Manter estado de conservação: permite salvar, carregar, listar e excluir do sistema. 
 
 
-##Requisitos não funcionais 
+## Requisitos não funcionais 
 
 O sistema será compatível com computadores que possuam acesso à internet, 
 devendo neles estarem instalados navegador web, bem como o ambiente de 
@@ -43,7 +43,7 @@ usuários um sistema de controle baseado em perfis, ou Role Based Access Control
 quais será possível acessar as diferentes funcionalidades disponibilizadas. 
 
 
-##Metodologia e Tecnologia Utilizada 
+## Metodologia e Tecnologia Utilizada 
 Programação Orientada a Objetos (POO): diz respeito as linguagens que utilizam 
 objetos em programação. Busca implementar entidades reais como herança, 
 ocultação, polimorfismo. Seu maior diferencial é juntar dados e funções para operarem 
