@@ -5,7 +5,7 @@ Este trabalho se propõe a desenvolver uma ferramenta livre e de código aberto 
 A implementação do sistema possibilitará às bibliotecas prestarem seus serviços de forma organizada, centralizando e aperfeiçoando assim a gestão.
 
 
-##ABRANGÊNCIA DO SISTEMA
+## ABRANGÊNCIA DO SISTEMA
 
 Requisitos funcionais: 
 
